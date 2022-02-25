@@ -34,7 +34,23 @@ Overall, I have learned:
     - Sort a DataFrame by its index using .sort_index()
     - Organize missing data while sorting values
     - Sort a DataFrame in place using inplace set to True
- 
+
+## 4. (Tutorial) [Pythonic Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/), by Malay Agarwal
+
+- In this tutorial, I learned about the essential steps towards cleaning data - an essential part of the everyday job of a data analyst! Here are the contents:
+    - Dropping Columns in a DataFrame
+    - Changing the Index of a DataFrame
+    - Tidying up Fields in the Data
+    - Combining str Methods with NumPy to Clean Columns
+    - Cleaning the Entire Dataset Using the applymap Function
+    - Renaming Columns and Skipping Rows
+
+## 5. (Course) [Reading and Writing Files With Pandas](https://realpython.com/courses/reading-writing-files-pandas/), by [Darren Jones](https://realpython.com/team/djones/)
+
+- This is a very explanatory course in which I have learned a great deal about one of the very first steps when analysing data, that is, writing and reading it! So far, I went through:
+    - What the Pandas IO tools API is
+    - How to read and write data to and from files
+    - How to use the methods of read_csv()   
 
 ## 9. (Tutorial) - [Pandas GroupBy: Your Guide to Grouping Data in Python](https://realpython.com/pandas-groupby/), by Brad Solomon
 
